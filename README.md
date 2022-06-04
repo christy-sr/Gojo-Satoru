@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/1c3146d59fc4c6c65dde8.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ
 
 > <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["917034685001"]
+global.ownername = ["ꪶᴄʜʀͥɪsᷧᴛᷟʏ͢ sᴇʀꫂ"]
 ```
 </details>
 
